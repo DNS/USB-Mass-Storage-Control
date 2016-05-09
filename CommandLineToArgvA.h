@@ -8,7 +8,7 @@
 
 
 
-PCHAR *CommandLineToArgvA(PCHAR CmdLine, int *_argc);
+PCHAR *CommandLineToArgvA (PCHAR CmdLine, int *_argc);
 
 
 

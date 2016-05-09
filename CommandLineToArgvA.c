@@ -2,7 +2,7 @@
 #include <windows.h>
 #include "CommandLineToArgvA.h"
 
-PCHAR *CommandLineToArgvA(PCHAR CmdLine, int *_argc) {
+PCHAR *CommandLineToArgvA (PCHAR CmdLine, int *_argc) {
 	PCHAR* argv;
 	PCHAR  _argv;
 	ULONG   len;
