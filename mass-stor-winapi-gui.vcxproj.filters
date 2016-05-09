@@ -18,9 +18,21 @@
     <ClCompile Include="main-gui.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="CommandLineToArgvA.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="usb-msc.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CommandLineToArgvA.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="usb-msc.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
