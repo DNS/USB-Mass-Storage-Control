@@ -22,13 +22,11 @@
 #include <windows.h>
 #include <commctrl.h>
 #include <shellapi.h>
-
 #include "resource.h"
 
 
 #include "CommandLineToArgvA.h"
 #include "usb-msc.h"
-
 
 
 HWND radiobtn_enabled;
